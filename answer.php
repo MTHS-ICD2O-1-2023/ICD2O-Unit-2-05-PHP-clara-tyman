@@ -45,7 +45,7 @@
               echo "Your pay is = " . $pay . " $" ;
               echo "<br />";
               echo "The gouverment will take " . $taxes . " $" ;
-              ?>
+                ?>
             </div>
           </div>
           </main>
