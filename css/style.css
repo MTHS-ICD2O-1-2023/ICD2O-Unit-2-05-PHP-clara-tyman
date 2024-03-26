@@ -32,3 +32,11 @@ body {
   width: 500px;
   padding-top: 30px;
 }
+
+.column {
+  padding-left: 50px;
+}
+
+.page-content-php {
+  padding-left: 50px;
+}
